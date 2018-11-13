@@ -19,6 +19,9 @@ header {
     width: 400px;
     float: left;
 }
+img{
+    width: 50%;
+}
 nav {
     float: left;
     width: calc(100% - 400px);
@@ -46,6 +49,7 @@ h1 {
     height: 2px;
     background: #f0f0f0;
     width: 100%;
+
 }
 .card {
     background: #fff;
@@ -60,6 +64,10 @@ h1 {
     position: fixed;
 
 }
+.form{
+    line-height: 16px;
+    padding: 12px 0px;
+}
 footer {
 	background: #666;
 	border-top: 8px solid #4aaaa5;
@@ -73,7 +81,6 @@ footer .copyright {
 	text-align: center;
     font-size: 10px;
 }
-
 * {
     box-sizing: border-box;
 }
