@@ -71,6 +71,7 @@ footer {
 }
 footer .copyright {
 	text-align: center;
+    font-size: 10px;
 }
 .bar {
 	width: 100%;
