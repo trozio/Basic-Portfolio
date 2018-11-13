@@ -58,21 +58,24 @@ h1 {
     width: 100%;
     border-top: 8px solid #4aaaa5;
     position: fixed;
-    
+
 }
-.copyright{
-    left: 50%;
-    font-size: 10px;
-    position: absolute;
-    line-height: 0px;
-    bottom: 0;
-}
-.bar{
-    width: 100%;
-    background: #666666;
-    padding: 16px;
+footer {
+	background: #666;
+	border-top: 8px solid #4aaaa5;
+	color: #fff;
+	padding: 16px 0;
     position: fixed;
     bottom: 0;
+    width: 100%;
+}
+footer .copyright {
+	text-align: center;
+}
+.bar {
+	width: 100%;
+	background: #666666;
+	padding: 16px;
 }
 * {
     box-sizing: border-box;
