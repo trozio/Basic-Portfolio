@@ -73,11 +73,7 @@ footer .copyright {
 	text-align: center;
     font-size: 10px;
 }
-.bar {
-	width: 100%;
-	background: #666666;
-	padding: 16px;
-}
+
 * {
     box-sizing: border-box;
 }
