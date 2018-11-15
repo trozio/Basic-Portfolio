@@ -94,6 +94,12 @@ form .submit{
 textarea {
     height: 200px;
 }
+.cat{
+    width: 300px;
+}
+.desk{
+    width: 300px;
+}
 footer {
 	background: #666;
 	border-top: 8px solid #4aaaa5;
