@@ -81,6 +81,15 @@ input,
 textarea {
     margin-bottom: 16px;
     width: 100%;
+
+}
+form .submit{
+    background: #4aaaa5;
+    width: 100px;
+    font-family: 'georgia';
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
 }
 textarea {
     height: 200px;
