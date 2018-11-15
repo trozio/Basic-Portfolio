@@ -22,11 +22,12 @@ header {
     float: left;
     font-family: 'Georgia';
 }
-img{
+.me{
     width: 50%;
     float: left;
-    padding: 10px 10px;
+    padding: 0px 12px;
 }
+
 nav {
     float: left;
     width: calc(100% - 275px);
@@ -54,6 +55,7 @@ h1 {
     height: 2px;
     background: #f0f0f0;
     width: 100%;
+    margin-bottom: 20px;
 
 }
 .card {
@@ -96,9 +98,19 @@ textarea {
 }
 .cat{
     width: 300px;
+    padding: 10px;
 }
 .desk{
     width: 300px;
+    padding: 10px;
+}
+.bear{
+    width: 300px;
+    padding: 10px;
+}
+.flowers{
+    width: 300px;
+    padding: 10px;
 }
 footer {
 	background: #666;
