@@ -94,7 +94,7 @@ form .submit{
     font-size: 14px;
 }
 form .submit:hover{
-    background: yellow;
+    background: blue;
 }
 textarea {
     height: 200px;
