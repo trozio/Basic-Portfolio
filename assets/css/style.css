@@ -27,6 +27,9 @@ header {
     float: left;
     padding: 0px 12px;
 }
+p{
+    font-size: 16px;
+}
 
 nav {
     float: left;
