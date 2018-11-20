@@ -99,6 +99,70 @@ form .submit:hover{
 textarea {
     height: 200px;
 }
+.container{
+    position: relative;
+}
+.hangman{
+    position: absolute;
+    width: 280px;
+    top: 90px;
+    left:10px;
+    background: #4aaaa5;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+.rpggame{
+    position: absolute;
+    width: 280px;
+    top: 90px;
+    left: 314px;
+    background: #4aaaa5;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+.triviagame{
+    position: absolute;
+    width: 280px;
+    top: 270px;
+    left: 10px;
+    background: #4aaaa5;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+.rutgers{
+    position: absolute;
+    width: 280px;
+    top: 270px;
+    left: 314px;
+    background: #4aaaa5;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+.rockpaperscissors{
+    position: absolute;
+    width: 280px;
+    top: 450px;
+    left: 10px;
+    background: #4aaaa5;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
 .cat{
     width: 300px;
     padding: 10px;
